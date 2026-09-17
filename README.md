@@ -115,4 +115,4 @@ Author
 Nicole Chibangula
 
 * GitHub: https://github.com/nicochib
-* LinkedIn: [LinkedIn URL]
+* LinkedIn: https://linkedin.com/nicolechibangula
