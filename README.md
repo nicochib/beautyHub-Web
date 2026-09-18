@@ -39,7 +39,7 @@ Development
 
 Live Demo
 
-Live application: [Add deployed frontend URL]
+Live application: https://nicochib.github.io/beautyHub-Web
 
 Running Locally
 
@@ -51,7 +51,7 @@ Prerequisites
 
 Clone the repository
 
-git clone [repository-url]
+git clone 
 cd BeautyHub
 
 Install dependencies
